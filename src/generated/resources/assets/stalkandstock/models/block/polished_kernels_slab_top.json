@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "stalkandstock:block/polished_kernels",
+    "side": "stalkandstock:block/polished_kernels",
+    "top": "stalkandstock:block/polished_kernels"
+  }
+}

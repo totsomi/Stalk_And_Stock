@@ -1,0 +1,6 @@
+// 1.20.1	2025-03-28T17:17:13.4702817	Tags for minecraft:block mod id stalkandstock
+91298092263229c22ed59f780495f30405f23e44 data/forge/tags/blocks/farmlands.json
+a4a6e37f33075f617c32dcc5f6b9ed60c0a78c34 data/minecraft/tags/blocks/flower_pots.json
+3cf398422d27a575b005bf5975504721a5413ea3 data/minecraft/tags/blocks/mineable/hoe.json
+5c3c03687078bab4774aa196bf6d63b9ed92dc41 data/minecraft/tags/blocks/mineable/pickaxe.json
+911ae70d7585ffbe35b695c92d25e78ccecaa471 data/minecraft/tags/blocks/small_flowers.json

@@ -1,0 +1,5 @@
+// 1.20.1	2025-03-28T17:17:13.4702817	Tags for minecraft:item mod id stalkandstock
+eeb4f2a7c97cfc85e3134f4aaff315f0e917a6c3 data/forge/tags/items/crops/corn.json
+8c67aa2b2872f01e6a3df09e9bba11d88964a09a data/forge/tags/items/seeds/corn.json
+911ae70d7585ffbe35b695c92d25e78ccecaa471 data/minecraft/tags/items/small_flowers.json
+8c67aa2b2872f01e6a3df09e9bba11d88964a09a data/minecraft/tags/items/villager_plantable_seeds.json

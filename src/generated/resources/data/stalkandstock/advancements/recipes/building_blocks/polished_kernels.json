@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_packed_kernels": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stalkandstock:packed_kernels"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stalkandstock:polished_kernels"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_packed_kernels",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stalkandstock:polished_kernels"
+    ]
+  },
+  "sends_telemetry_event": false
+}

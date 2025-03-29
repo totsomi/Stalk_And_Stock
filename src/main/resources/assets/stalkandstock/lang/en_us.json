@@ -1,0 +1,23 @@
+{
+  "item.stalkandstock.corncob" : "Corncob",
+  "item.stalkandstock.cooked_corncob" : "Cooked Corncob",
+  "item.stalkandstock.corn_kernels" : "Corn Kernels",
+  "item.stalkandstock.cornbread" : "Cornbread",
+  "item.stalkandstock.wild_corn" : "Wild Corn",
+  "item.stalkandstock.yellow_tassel": "Yellow Tassel",
+
+  "item.stalkandstock.maize_banner_pattern": "Banner Pattern",
+  "item.stalkandstock.maize_banner_pattern.desc": "Maize",
+
+  "block.stalkandstock.packed_kernels": "Packed Kernels",
+  "block.stalkandstock.polished_kernels": "Polished Kernels",
+  "block.stalkandstock.polished_kernels_slab": "Polished Kernels Slab",
+  "block.stalkandstock.polished_kernel_stairs": "Polished Kernel Stairs",
+
+  "painting.stalkandstock.cornfield.title": "Cornfield",
+  "painting.stalkandstock.cornfield.author": "Stalk & Stock",
+
+  "creativetab.stalkandstock.stalkandstock_tab" : "Stalk & Stock",
+  "subtitles.stalkandstock.entity.corn.eat": "Corn Eating"
+
+}

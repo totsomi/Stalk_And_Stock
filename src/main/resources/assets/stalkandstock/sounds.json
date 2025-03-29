@@ -1,0 +1,10 @@
+{
+  "entity.corn.eat": {
+    "sounds": [
+      "stalkandstock:corn_eat1",
+      "stalkandstock:corn_eat2",
+      "stalkandstock:corn_eat3"
+    ],
+    "subtitle": "subtitles.stalkandstock.entity.corn.eat"
+  }
+}

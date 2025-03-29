@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "stalkandstock:corn_kernels"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "stalkandstock:cornbread"
+  },
+  "show_notification": true
+}

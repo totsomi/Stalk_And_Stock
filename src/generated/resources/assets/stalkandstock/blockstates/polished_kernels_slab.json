@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stalkandstock:block/polished_kernels_slab"
+    },
+    "type=double": {
+      "model": "stalkandstock:block/polished_kernels"
+    },
+    "type=top": {
+      "model": "stalkandstock:block/polished_kernels_slab_top"
+    }
+  }
+}

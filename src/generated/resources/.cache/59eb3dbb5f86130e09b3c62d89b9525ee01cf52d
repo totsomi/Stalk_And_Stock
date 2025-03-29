@@ -1,0 +1,9 @@
+// 1.20.1	2025-03-28T17:17:13.4702817	Loot Tables
+5a87ed15c19a4d57905fa00196d0ff3dcaba0bdf data/stalkandstock/loot_tables/blocks/corn.json
+9c04cf87c5fdb9f040da3d5144c7ee6002910420 data/stalkandstock/loot_tables/blocks/packed_kernels.json
+b6438ecb817fbe7b9b40189d9df4c29ae14b5a48 data/stalkandstock/loot_tables/blocks/polished_kernels.json
+4ead319f73d03f1826013b56efc5d7381e90ea40 data/stalkandstock/loot_tables/blocks/polished_kernels_slab.json
+d7e2ae4c32748cce3ca3722b826e97657a7d8c07 data/stalkandstock/loot_tables/blocks/polished_kernel_stairs.json
+3542004c155b409220e69bcd1df92794ef0af09a data/stalkandstock/loot_tables/blocks/potted_yellow_tassel.json
+11e8017b0ea78a292e8215ea267aa49a173311f2 data/stalkandstock/loot_tables/blocks/wild_corn.json
+8c2fd9486ec49aa3e62068d3543ad90ee3382251 data/stalkandstock/loot_tables/blocks/yellow_tassel.json
